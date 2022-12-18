@@ -1,6 +1,6 @@
 # Website
 
-Built using Node.js with [Docusaurus 2](https://docusaurus.io/) presets themes.
+Built using Node.js with [Docusaurus 2](https://docusaurus.io/) react elements.
 
 ### Installation
 
@@ -39,3 +39,5 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 Easy build and update to GH pages.
+
+Built by [@biohackerellie](https://www.github.com/biohackerellie)
