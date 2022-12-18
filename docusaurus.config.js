@@ -120,7 +120,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built with React.Js by Ellie Kerns`,
+        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built with Reactjs by Ellie Kerns`,
       },
       prism: {
         theme: lightCodeTheme,
