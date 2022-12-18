@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+Built using Node.js with [Docusaurus 2](https://docusaurus.io/) presets themes.
 
 ### Installation
 
@@ -8,7 +8,7 @@ This website is built using [Docusaurus 2](https://docusaurus.io/), a modern sta
 $ yarn
 ```
 
-### Local Development
+### Local Development for testing
 
 ```
 $ yarn start
@@ -38,4 +38,4 @@ Not using SSH:
 $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+Easy build and update to GH pages.
