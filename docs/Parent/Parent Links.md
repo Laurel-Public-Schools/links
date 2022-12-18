@@ -31,5 +31,4 @@ A list of external links for parents of Laurel Public School Students
 
 [Reset or create your Username/Password](https://laurelschools.atlassian.net/servicedesk/customer/portal/5/group/20/create/73)
 
-## Tech Support
-[Submit a help desk ticket](https://laurelschools.atlassian.net/servicedesk/customer/portal/2)
+
