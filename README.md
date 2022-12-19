@@ -22,15 +22,24 @@ npm install
 *the site will automatically spin up and only be accessible via your working machine at http://localhost:3000/*
 
 ```
-$ npm run start
+npm run start
 ```
 
 This command opens up a browser window. Most changes are reflected live without having to restart the server.
 
+### Shutdown the app
+```
+# windows,linux 
+ctrl+c
+
+# apple
+cmd+c
+```
+
 ### Build the package for deployment
 
 ```
-$ npm build
+npm build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
