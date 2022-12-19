@@ -4,6 +4,8 @@ Built using Node.js with [Docusaurus 2](https://docusaurus.io/) react elements.
 
 ## Local Installation for development
 
+**You must have Node.JS installed on the machine you are working from. [Installers](https://nodejs.org/en/download/)**
+
  Start by cloning the repo in the file directory you want to work from
 
 *works with PS, Bash, gitbash, etc*
