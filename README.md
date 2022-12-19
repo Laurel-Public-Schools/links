@@ -36,18 +36,6 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-Using SSH:
-
-```
-$ USE_SSH=true npm deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> npm deploy
-```
-
-Easy build and update to GH pages.
+*Deployment method has not been decided. Will update once published*
 
 Built by [@biohackerellie](https://www.github.com/biohackerellie)
