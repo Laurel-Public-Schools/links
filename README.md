@@ -10,12 +10,13 @@ Built using Node.js with [Docusaurus 2](https://docusaurus.io/) react elements.
 
 *works with PS, Bash, gitbash, etc*
 ```
-$ cd /your/working/directory
-$ git clone https://github.com/Laurel-Public-Schools/links.git
+ cd /your/working/directory
+ git clone https://github.com/Laurel-Public-Schools/links.git
 ```
 Install node modules
 ```
-$ npm install
+cd /links
+npm install
 ```
 ### Start the app
 *the site will automatically spin up and only be accessible via your working machine at http://localhost:3000/*
