@@ -58,7 +58,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built with Reactjs by Ellie Kerns`,
+        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by Ellie Kerns`,
       },
       prism: {
         theme: lightCodeTheme,

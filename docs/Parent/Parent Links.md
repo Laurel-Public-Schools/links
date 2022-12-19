@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # Parent Links
 
 A list of external links for parents of Laurel Public School Students
@@ -30,5 +33,15 @@ A list of external links for parents of Laurel Public School Students
 [Sign in to Infinite Campus](https://mtdecloud2.infinitecampus.org/campus/portal/laurel.jsp)
 
 [Reset or create your Username/Password](https://laurelschools.atlassian.net/servicedesk/customer/portal/5/group/20/create/73)
+
+---
+## Student Emergency Contact and Address verification
+[Emergency Contact Update Form](https://resources.finalsite.net/images/v1650572412/laurelk12mtus/vwplv5n4ys6ezwam9sse/emergencycontactupdateform-webversion.pdf)
+
+[Address Verification Form](https://resources.finalsite.net/images/v1650572464/laurelk12mtus/q775m0znqdf9ufobu6ad/addressverificationstatementweb221.pdf)
+
+---
+
+
 
 
