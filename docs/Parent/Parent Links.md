@@ -23,6 +23,9 @@ For more information (specific bell schedules), please refer to student [handboo
 ## Enrollment
 [New Student enrollment](https://mtdecloud2.infinitecampus.org/campus/apps/olr/application/login/email-choose-year)
 
+[KinderBoost Registration](https://www.laurel.k12.mt.us/fs/form-manager/view/a416189c-7aca-4a4c-a9a1-99585fe36304)
+
+[South iPad Authorization form](https://www.laurel.k12.mt.us/fs/form-manager/view/163472d7-fb94-4614-8c96-491224717d2a)
 
 ---
 
