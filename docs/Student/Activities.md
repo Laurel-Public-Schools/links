@@ -1,3 +1,0 @@
-# LPS Activities Documents
-
-

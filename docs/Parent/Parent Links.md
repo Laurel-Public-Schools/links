@@ -77,5 +77,16 @@ For more information (specific bell schedules), please refer to student [handboo
 [Tuition Rates 2022-2023](https://resources.finalsite.net/images/v1650572460/laurelk12mtus/ed1mab9urlfv7zr6y1jo/policy--2022.pdf)
 
 ---
-##
+## [Drivers Ed](https://www.laurel.k12.mt.us/quick-links/drivers-education-classes)
+---
+## Care Academy
+[Information Page](https://www.laurel.k12.mt.us/parent/care-academy-united-way)
 
+[Registration](https://www.unitedwayyellowstone.org/applications-other-forms)
+
+---
+## [Illness Policy](https://resources.finalsite.net/images/v1650575693/laurelk12mtus/xbrluxdmsvs5luo43buk/illnesspolicy1.pdf)
+
+---
+
+## [Volunteer Handbook](https://drive.google.com/file/d/1ZBonnr1X9hJZ4gRxsNvCXDCtR0HbeFyz/view)

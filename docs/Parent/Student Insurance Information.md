@@ -4,7 +4,12 @@ sidebar_position: 2
 # Student Insurance Information
 [*download pdf*](https://resources.finalsite.net/images/v1650575400/laurelk12mtus/r3fctvwk5vyz0ufobbng/student_insurance_info.pdf)
 
-### About SMIC
+## Links
+- [Coverage](https://resources.finalsite.net/images/v1658855624/laurelk12mtus/mkprwdxd7qgiejtvabqc/StudentInsuranceCoverage22-23.pdf)
+- [Claim Information](https://resources.finalsite.net/images/v1658855695/laurelk12mtus/zpu6pqmcfifiwffzysiw/StudentInsuranceClaimInformation.pdf)
+- [Policy Information](https://resources.finalsite.net/images/v1658855732/laurelk12mtus/fsncuzqrgxfdx0xbcw0u/StudentInsurancePolicyInformation.pdf)
+
+## About SMIC
 
 
 Since 1985 Special Markets Insurance Consultants, Inc. (SMIC) has delivered competitive pricing on comprehensive Student
@@ -13,7 +18,7 @@ exclusions and any reductions or limitation, and the terms under which the polic
 http://www.k12specialmarkets.com. Students are able to purchase coverage only if his/her school district is a policyholder with the
 insurance company.
 
-### Accidents aren’t supposed to happen, but they do.
+## Accidents aren’t supposed to happen, but they do.
 
 School recess, one-day field trips and general day-to-day
 activities can all lead to injuries. Having coverage during
@@ -21,7 +26,7 @@ school hours, or around the clock can insure your loved
 ones get the care they need without financial hardship
 to your family.
 
-### ELIGIBILITY
+## ELIGIBILITY
 
 Any enrolled student is eligible for coverage.
 
@@ -37,12 +42,12 @@ Insurance Consultants, Inc. To research which plans are
 being offered by your school, please visit our website’s
 online enrollment tool at **[http://www.k12specialmarkets.com](http://www.k12specialmarkets.com)**
 
-### PAYMENT
+## PAYMENT
 
 Parents or guardians of students are responsible for
 enrollment and premium payment.
 
-### HOW TO ENROLL
+## HOW TO ENROLL
 
 
 Enrolling is easy and only takes a few minutes.
