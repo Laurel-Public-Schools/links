@@ -1,4 +1,4 @@
-# Student Links
+# Elementary Student Links
 ## [Infinite Campus](https://mtdecloud2.infinitecampus.org/campus/portal/laurel.jsp)
 
 ---
@@ -6,14 +6,15 @@
 
 ---
 
-## [Sora](https://soraapp.com/welcome)
+
+## [Khan Academy](https://www.khanacademy.org/)
+
 
 ---
+## Library Links
+[Sora](https://soraapp.com/welcome)
 
-## [Khan Academy]
+[Alexandria - Graff](https://graff.goalexandria.com/)
 
----
-
-
-
+[World Book Encyclopedia](https://www.worldbookonline.com/wb/Login?ed=wb&subacct=N7401) *Log-in ID: `laurel21` Password: `research` *
 
