@@ -75,6 +75,29 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 <a name="lists"/>
 
+---
+
+## HTML Elements in Markdown documents
+Markdown allows for the injection of HTML elements directly inline without any preconfiguration. 
+### Create dropdown menu
+ You can copy and paste this html code to create a dropdown menu within your document. The content between the "<>" markers are required Except for div markers. Div is used to divide sections of html, so use div and /div as line breaks.
+
+```
+<details>
+<summary>Name Of Dropdown Menu</summary>
+<div>Text info here<div>
+#linked content
+<div><a href="https://yourwebsiteurl.com">Text you want your link to display</a></div>
+</details>
+```
+Results:
+<details>
+<summary>Name Of Dropdown Menu</summary>
+<div>Text info here<div>
+#linked content
+<div><a href="https://yourwebsiteurl.com">Text you want your link to display</a></div>
+</details>
+---
 ## Lists
 
 (In this example, leading and trailing spaces are shown with with dots: ⋅)
