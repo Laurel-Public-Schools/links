@@ -2,6 +2,8 @@
 
 Built using Node.js with [Docusaurus 2](https://docusaurus.io/) react elements.
 
+Use the [Reference Guides](./Reference%20Guides/) folder for helpful guides on Markdown, as well as specifics for editing this site.
+
 ## Local Installation for development
 
 **You must have Node.JS installed on the machine you are working from. [Installers](https://nodejs.org/en/download/)**
