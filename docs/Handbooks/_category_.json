@@ -1,8 +1,8 @@
 {
-    "label": "Student Handbooks",
+    "label": "Handbooks",
     "position": 5,
     "link": {
       "type": "generated-index",
-      "description": "Student Handbooks"
+      "description": "Handbooks"
     }
   }
