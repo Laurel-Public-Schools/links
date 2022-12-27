@@ -93,3 +93,15 @@ For more information (specific bell schedules), please refer to student [handboo
 ---
 
 ## [Volunteer Handbook](https://drive.google.com/file/d/1ZBonnr1X9hJZ4gRxsNvCXDCtR0HbeFyz/view)
+
+---
+## Athletics and Activities
+- [Parent/Athlete Checklist and Info](https://docs.google.com/document/d/1bsKaaUZSod55sp-5f0I7Vc2LFtqz3ZZfzZjE1__BlAo/edit)
+- [(FAQ’s) Nonpublic (NP) – Home school (HS)](https://www.laurel.k12.mt.us/fs/resource-manager/view/77225d87-2ec3-441b-b5cd-f97833a6f3e2)
+- [Eligibility Checklist - Homeschool](https://www.laurel.k12.mt.us/fs/resource-manager/view/f0fea885-059a-462b-964d-ba946b848689)
+- [Eligibility Revisions - Homeschool](https://www.laurel.k12.mt.us/fs/resource-manager/view/9cf4aeab-71c0-4849-b2c0-7edee4ef8c79)
+- [Parent Release Form](https://drive.google.com/file/d/1Lw_wtv-Fhku0xFnM5MdkrpcAF6GORqjN/view?usp=sharing)
+### Participation Forms
+- [Pledge Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/6d05fbfd-a695-4bcd-aeae-200a8a3cb3a3)
+- [Concussion Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/0726482d-0aab-4957-9744-75eca02036f9)
+- [Sports Physical Form](https://cdn1.sportngin.com/attachments/document/ad7e-1857956/Pre-participationPhysicalForm-2022-23_1_.pdf#_ga=2.225630942.511108639.1660254334-1992758709.1660254333)
