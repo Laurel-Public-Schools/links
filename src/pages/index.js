@@ -24,6 +24,7 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
+
   );
 }
 

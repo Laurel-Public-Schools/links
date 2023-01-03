@@ -56,6 +56,12 @@ const config = {
             position: 'left',
             label: 'Links and Forms',
           },
+          {
+            type: 'link',
+            position: 'center',
+            label: 'Return to District Website',
+            url: 'https://laurel.k12.mt.us',
+          },
         ],
       },
       footer: {
