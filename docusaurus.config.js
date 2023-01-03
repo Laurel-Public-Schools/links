@@ -4,6 +4,11 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
+module.exports = {
+  // ...
+    plugins: [require.resolve('docusaurus-lunr-search')],
+}
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'LPS Links and Forms',
@@ -38,10 +43,6 @@ const config = {
     ],
   ],
 
-  module.exports = {
-    // ...
-      plugins: [require.resolve('docusaurus-lunr-search')],
-  }
 
 
   themeConfig:
