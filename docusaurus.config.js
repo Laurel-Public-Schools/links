@@ -38,6 +38,10 @@ const config = {
     ],
   ],
 
+  plugins: [
+    '@aldridged/docusaurus-plugin-lunr']
+    [require.resolve('docusaurus-lunr-search')
+  ]
 
 
   themeConfig:
@@ -55,12 +59,6 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'Links and Forms',
-          },
-          {
-            type: 'link',
-            position: 'center',
-            label: 'Return to District Website',
-            url: 'https://laurel.k12.mt.us',
           },
         ],
       },
