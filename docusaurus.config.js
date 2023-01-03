@@ -38,12 +38,6 @@ const config = {
     ],
   ],
 
-  plugins: [
-    '@aldridged/docusaurus-plugin-lunr']
-    [require.resolve('docusaurus-lunr-search')
-  ]
-
-
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -78,3 +72,8 @@ module.exports =  config;
 //   ...
 //     plugins: [require.resolve('docusaurus-lunr-search')],
 // }
+
+//   plugins: [
+//  '@aldridged/docusaurus-plugin-lunr']
+// [require.resolve('docusaurus-lunr-search')
+// ]
