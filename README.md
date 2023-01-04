@@ -53,7 +53,8 @@ We are using the official Node.js Docker container which can be found on [Docker
 ### To build this repo, attach command line to the running container, then run the following:
 ```
 git clone https://github.com/Laurel-Public-Schools/links.git \ 
-&& npm install \
+cd links \
+npm install \
 && npm install docusaurus \
 && npm run build \
 && npm run serve
