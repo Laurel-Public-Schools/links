@@ -40,6 +40,9 @@ For more information (specific bell schedules), please refer to student [handboo
 
 [High School](https://www.laurel.k12.mt.us/fs/form-manager/view/0374b9c2-a4be-4e39-b7b4-88e7a2354b1e)
 
+---
+
+## [Bus Registration Form](https://laurel.flowforms.io/busregistration)
 
 ---
 
