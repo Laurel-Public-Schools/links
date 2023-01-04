@@ -1,3 +1,15 @@
+
+
+## [Employee Access Portal](https://laurelpublicschoolsmt.tylerportico.com/tesp/employee-selfservice/)
+
+## [Ready Sub](https://app.readysub.com/account/login)
+
+## [TimeClock]()
+
+
+
+---
+
 ## HR Forms and Documents
 
 ### [Coursework Approval Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/cae485a8-2c02-4174-bb83-8ecd246d4445)
