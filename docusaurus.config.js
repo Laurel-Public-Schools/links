@@ -67,4 +67,13 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports =  config; 
+// module.exports = {
+//   ...
+//     plugins: [require.resolve('docusaurus-lunr-search')],
+// }
+
+//   plugins: [
+//  '@aldridged/docusaurus-plugin-lunr']
+// [require.resolve('docusaurus-lunr-search')
+// ]

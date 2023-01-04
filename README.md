@@ -48,6 +48,17 @@ This command generates static content into the `build` directory and can be serv
 
 ### Deployment
 
-*Deployment method has not been decided. Will update once published*
+We are using the official Node.js Docker container which can be found on [Dockerhub](https://hub.docker.com/_/node) 
+
+### To build this repo, attach command line to the running container, then run the following:
+```
+git clone https://github.com/Laurel-Public-Schools/links.git \ 
+&& npm install \
+&& npm install docusaurus \
+&& npm run build \
+&& npm run serve
+```
+You will be able to open the static web content at http://localhost:3000
+
 
 Built by [@biohackerellie](https://www.github.com/biohackerellie)

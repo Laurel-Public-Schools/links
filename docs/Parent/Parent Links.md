@@ -19,7 +19,7 @@ Graff Elementary(3rd & 4th)         8:05 a.m. - 3:20 p.m.	                   8:0
 Laurel Middle School(5th -8th)      8:05 a.m. - 3:20 p.m.	                   8:05 a.m. - 2:30 p.m.
 Laurel High School (9th -12th)      8:18 a.m. - 3:33 p.m.	                   8:18 a.m. - 2:23 p.m.
 ```
-For more information (specific bell schedules), please refer to student [handbooks.](/docs/category/student-handbooks)
+For more information (specific bell schedules), please refer to student [handbooks.](/docs/category/handbooks)
 ## Enrollment
 [New Student enrollment](https://mtdecloud2.infinitecampus.org/campus/apps/olr/application/login/email-choose-year)
 
