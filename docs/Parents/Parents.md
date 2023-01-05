@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Parent Links
+# Parents
 
 A list of external links for parents of Laurel Public School Students
 =====================================================================
