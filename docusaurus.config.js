@@ -41,11 +41,11 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appID: '58DY084X0I',
-        apiKey: '637ab5f091c3d0b1305b1c70cf048b84',
-        indexName: 'index'
-      },
+      // algolia: {
+      //   appID: '58DY084X0I',
+      //   apiKey: '637ab5f091c3d0b1305b1c70cf048b84',
+      //   indexName: 'index'
+      // },
       navbar: {
         title: 'LPS Links and Forms',
         logo: {
