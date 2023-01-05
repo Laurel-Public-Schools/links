@@ -37,7 +37,7 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -67,13 +67,7 @@ const config = {
     }),
 };
 
-module.exports =  config; 
-// module.exports = {
-//   ...
-//     plugins: [require.resolve('docusaurus-lunr-search')],
-// }
-
-//   plugins: [
-//  '@aldridged/docusaurus-plugin-lunr']
-// [require.resolve('docusaurus-lunr-search')
-// ]
+module.exports = config; 
+module.exports = {
+  plugins: [require.resolve("@cmfcmf/docusaurus-search-local")]
+}
