@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 {
   "name": "lpsdocs",
-  "version": "0.5.5",
+  "version": "0.8",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
