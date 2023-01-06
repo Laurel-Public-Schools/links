@@ -38,26 +38,23 @@ ctrl+c
 cmd+c
 ```
 
-### Build the package for deployment
 
+## Deployment
+
+#### This site is deployed locally via docker but will also run on Github Pages, Vercel, etc.
+
+To deploy locally, build the docker image from the root of the repository 
 ```
-npm run build
+docker build -t imagename:latest .
+```
+and then make a container using the image
+```
+docker run --rm -p 3000:3000 imagename:latest 
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-We are using the official Node.js Docker container, edit the volume section of the docker compose file to match your repository root location, then cd from your cli into your repository root and run ``docker-compose up`` . Your command line will be attached to the new node container and you can move on to the build step, if you are just setting up the container but aren't building yet, run ``docker-compose up -d`` to run it detached from your cli. You can reattach at any point by running ``docker attach <container ID>``
-#### Build and serve the site from the container
-```
-cd app \
-npm install 
-&& npm install docusaurus 
-&& npm run build 
-&& npm run serve
-```
 You will be able to open the static web content at http://localhost:3000
+
+Any time updates are made to your site and are ready for live deployment, simply rebuild and run the image. *this can be done automatically on git push's via github actions or webooks*
 
 
 Built by [@biohackerellie](https://www.github.com/biohackerellie)
