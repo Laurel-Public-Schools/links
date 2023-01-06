@@ -41,11 +41,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      algolia: {
-        appID: '58DY084X0I',
-        apiKey: '637ab5f091c3d0b1305b1c70cf048b84',
-        indexName: 'index'
-      },
       navbar: {
         title: 'LPS Links and Forms',
         logo: {
@@ -62,6 +57,16 @@ const config = {
           },
         ],
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '58DY084X0I',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '637ab5f091c3d0b1305b1c70cf048b84',
+  
+        indexName: 'docsearch',
+      },
+
       footer: {
         style: 'dark',
         copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by Ellie Kerns`,
