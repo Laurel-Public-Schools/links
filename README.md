@@ -41,22 +41,20 @@ cmd+c
 ### Build the package for deployment
 
 ```
-npm build
+npm run build
 ```
 
 This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
 ### Deployment
 
-We are using the official Node.js Docker container which can be found on [Dockerhub](https://hub.docker.com/_/node) 
-
-### To build this repo, attach command line to the running container, then run the following:
+We are using the official Node.js Docker container, edit the volume section of the docker compose file to match your repository root location, then cd from your cli into your repository root and run ``docker-compose up`` . Your command line will be attached to the new node container and you can move on to the build step, if you are just setting up the container but aren't building yet, run ``docker-compose up -d`` to run it detached from your cli. You can reattach at any point by running ``docker attach <container ID>``
+#### Build and serve the site from the container
 ```
-git clone https://github.com/Laurel-Public-Schools/links.git \ 
-cd links \
-npm install \
-&& npm install docusaurus \
-&& npm run build \
+cd app \
+npm install 
+&& npm install docusaurus 
+&& npm run build 
 && npm run serve
 ```
 You will be able to open the static web content at http://localhost:3000
