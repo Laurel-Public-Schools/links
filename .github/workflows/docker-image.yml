@@ -14,16 +14,19 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: Close running container
+      id: close
+      run: docker stop laurellinux
+
+    - uses: actions/checkout@v3  
     - name: Build the Docker image
+      id: build
       run: docker build . --file Dockerfile --tag laurellinks:$(date +%s)
-      
-  deploy:
-    
-    runs-on: ubuntu-latest
-    
-    steps:
+
     - uses: actions/checkout@v3
     - name: Deploy the docker container
-      run: docker run --rm -p 3000:3000 laurellinks:latest
+      id: deploy
+      run: docker run --rm --name laurellinks  -p 3000:3000 -d laurellinks:latest
+      if: steps.build.outcome == 'success'
     
    

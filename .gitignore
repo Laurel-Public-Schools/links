@@ -28,3 +28,5 @@ temp
 
 
 webcrawler/.env
+.github/workflows/docker-image.yml
+act.sh
