@@ -24,4 +24,5 @@ yarn-error.log*
 
 /temp
 
-
+/webcrawler
+/webcrawler/.env
