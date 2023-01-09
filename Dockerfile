@@ -2,6 +2,7 @@
 
 FROM node:19.3.0 AS build
 ENV NODE_ENV=production
+ENV NPM_CONFIG_LOGLEVEL=error
 WORKDIR /app
 COPY ["package.json", "package-lock.json*", "./"]
 RUN npm install --force
