@@ -34,9 +34,4 @@ jobs:
       run: docker run --rm --name laurellinks  -p 3000:3000 -d laurellinks:latest
       if: steps.build.outcome == 'success'
 
-    # - uses: actions/checkout@v3
-    # - name: git commit
-    #   id: git
-    #   run:  
-    #   if: steps.deploy.outcome == 'success'
 
