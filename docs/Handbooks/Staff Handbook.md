@@ -1,25 +1,26 @@
 ## Laurel Public Schools Staff Handbook 2019- 2020
 
 
+## General Information
 
+### Associations
 
-
-General Information
-
-Associations
 The Laurel United Education Association (LUEA) is the bargaining unit for all certified and classified staff.
 Please see the appendix (Associations) of this document for LUEA information.
 
-Board Members
+### Board Members
+
 The Legislature of the State of Montana delegates to the Board responsibility for the conduct and governance
 of district schools. Board members are elected by the district and serve a three year term on the Laurel School
 Board. Please see the appendix (Board Members) of this document for current School Board members.
 
-Board Meetings / Communications
+### Board Meetings / Communications
+
 Unless otherwise specified, all meetings will be held at the administration building located at 410 Colorado
 Ave. Board meetings will be held at 6:00 PM on the second and fourth Monday of each month.
 
-Community Use of Building
+### Community Use of Building
+
 School facilities are available to the community for education, civic, cultural, and other uses consistent with the
 public interest, when such use does not interfere with a school program or school sponsored activities. Use of
 the school facilities for school purposes has precedence over all other uses. All individuals on school premises
@@ -27,7 +28,8 @@ must abide by the district’s conduct rules at all times. Contact Community Edu
 on usage and related rental fees. See appendix for contact name and information (Community Use of
 Building).
 
-Conference Affiliation
+### Conference Affiliation
+
 The district’s high school is a member of the Montana High School Association (MHSA) and participates in
 recognized activities in the Eastern A Conference with schools comprised of comparable enrollments and
 activity programs.
@@ -36,49 +38,51 @@ The high school participates in the following MHSA sanctioned events: football, 
 volleyball, cross country, wrestling, boys’ and girls’ basketball, track, softball, golf, speech, drama, and debate,
 District and State music festivals (choir, band) and cheer.
 
-District Office Hours
+### District Office Hours
+
 The district office is open between the hours of 8:00 AM and 4:00 PM weekdays throughout the year unless
 posted otherwise.
 
 ## Absences
 
-Discretionary Leave
+### Discretionary Leave
 Certified instructional employees shall be granted Discretionary Leave according to the terms of the current
 collective bargaining agreement.
 
-Family and Medical Leave Act (FMLA)
-Eligibility
+### Family and Medical Leave Act (FMLA)
+#### Eligibility
 Employees are eligible if they have worked for the District for at least one (1) year, and for one thousand two
 hundred fifty (1250) hours over the previous twelve (12) months.
 
-
-Length / Purpose of Leave
+#### Length / Purpose of Leave
 To be eligible for FMLA leave, an individual must meet the following criteria:
 
-
 a. Have worked at least 12 months (which do not have to be consecutive) for the employer; and
+
 b. Have worked at least 1,250 hours during the 12 months immediately before the date FMLA
 leave begins.
-
 
 The FMLA entitles eligible employees of covered employers to take job-protected, unpaid leave for
 specified family and medical reasons. Eligible employees are entitled to twelve (12) workweeks of
 leave in any twelve (12) month period for:
 
-
 a. Birth and care of the employee's child, within one year of birth
+
 b. Placement with the employee of a child for adoption or foster care, within one year of the
 placement
+
 c. Care of an immediate family member (spouse, child, parent) who has a serious health condition
+
 d. For the employee's own serious health condition that makes the employee unable to perform
 the essential functions of his or her job
+
 e. Any qualifying event arising out of the fact that the employee’s spouse, son, daughter, or parent
 is on active duty or has been notified of an impending call or order to active duty in the U.S.
 National Guard or Reserves in support of a contingency operation
+
 f. Twenty-six (26) workweeks of leave during a single twelve (12) month period to care for a
 covered servicemember with a serious injury or illness if the employee is the spouse, son,
 daughter, parent, or next of kin of the servicemember (Military Caregiver Leave)
-
 
 If an employee was receiving group health benefits when leave began, an employer must maintain
 them at the same level and in the same manner during periods of FMLA leave as if the employee
@@ -108,14 +112,14 @@ previously provided the employee FMLA-protected leave, the employee must specifi
 the qualifying reason for the leave or the need for FMLA leave.
 
 
-Service Member Family Leave
+### Service Member Family Leave
 Subject to Section 103 of the FMLA of 1993, as amended, an eligible employee who is the spouse, son,
 daughter, parent, or next of kin of a covered service member shall be entitled to a total of twenty-six (26)
 workweeks of leave during a twelve (12) month period to care for the service member. The leave described in
 this paragraph shall only be available during a single twelve (12) month period and in accordance with Board
 Policy 5328.
 
-Vacation
+### Vacation
 The classified and 12 month administrative employees shall accrue annual vacation leave benefits in
 accordance with ŞŞ2-18-611, 2-18-612, 2-18-614 through 2018-617 and 2-18-621, MCA. Certified employees
 shall refer to their master agreement regarding leave and discretionary days.
@@ -214,7 +218,7 @@ report shall have immunity from any liability, civil or criminal, that might oth
 provided by law.
 
 
-Class Interruptions
+## Class Interruptions
 The district is committed to protecting instructional time. Class interruptions of any kind will be kept to a
 minimum. Students are not to be permitted to interrupt a class in session without authorization from the office
 or teacher. Intercom use is restricted to administrative use or administrative approved use only.
@@ -229,7 +233,7 @@ never be left unsecured. Students should be instructed to leave valuables at hom
 district will not be responsible for the loss of or damage to personal property due to such causes as fire, theft,
 accident, or vandalism.
 
-Communicable Disease/Bloodborne Pathogens/Infection Control Procedures
+## Communicable Disease/Bloodborne Pathogens/Infection Control Procedures
 The district provides for the reasonable protection against the risk of exposure to communicable disease to all
 staff while engaged in the performance of their duties. Protection is provided through immunization and
 exclusion in accordance with Montana Code Annotated and the Administrative Rules of Montana. Infection
@@ -239,8 +243,8 @@ established through Board policy 3417 and administrative regulations for staff a
 All staff shall comply with measures adopted by the district and with all rules set by the Montana State Health
 Department and the county health department.
 
-Complaints
-Student/Parent Complaints
+## Complaints
+### Student/Parent Complaints
 The district recognizes that complaints regarding staff performance, discipline, grades, student progress, and
 homework assignments will be made by students and parents from time to time. Every effort will be made to
 ensure that such complaints are handled and resolved informally and as close to their origin as possible.
@@ -257,7 +261,7 @@ to the superintendent for appropriate building administrator follow-up.
 All staff members should familiarize themselves with Board policy and applicable provisions of administrative
 regulations and negotiated agreements regarding the handling of complaints.
 
-Staff Complaints
+### Staff Complaints
 Staff member complaints contending a violation, misinterpretation, or inappropriate application of district
 personnel policies and/or administrative regulations should be directed to the building principal or immediate
 supervisor for informal discussion and resolution.

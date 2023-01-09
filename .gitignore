@@ -18,3 +18,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+.zshrc
+
+/scripts
+
+temp
+
+
+
+
+webcrawler/.env
+.github/workflows/docker-image.yml
+act.sh

@@ -18,10 +18,10 @@ const config = {
   organizationName: 'Laurel Public Schools', 
   projectName: 'links', // 
 
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+  // i18n: {
+  //   defaultLocale: 'en',
+  //   locales: ['en'],
+  // },
 
   presets: [
     [
@@ -37,7 +37,7 @@ const config = {
       }),
     ],
   ],
-
+  
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -47,6 +47,7 @@ const config = {
           alt: 'LPS Logo',
           src: 'img/train.png',
         },
+        
         items: [
           {
             type: 'doc',
@@ -54,11 +55,26 @@ const config = {
             position: 'left',
             label: 'Links and Forms',
           },
+          {
+            href: 'https://laurel.k12.mt.us',
+            position: 'right',
+            label: 'Return to District Website'
+          }
         ],
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: '58DY084X0I',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '637ab5f091c3d0b1305b1c70cf048b84',
+  
+        indexName: 'docsearch',
+      },
+
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by Ellie Kerns`,
+        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. LPS Links and Documentation Site Built by [Ellie Kerns](https://github.com/biohackerellie)`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -67,4 +83,4 @@ const config = {
     }),
 };
 
-module.exports = config;
+module.exports = config; 

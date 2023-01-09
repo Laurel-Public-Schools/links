@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Parent Links
+# Parents
 
 A list of external links for parents of Laurel Public School Students
 =====================================================================
@@ -19,7 +19,7 @@ Graff Elementary(3rd & 4th)         8:05 a.m. - 3:20 p.m.	                   8:0
 Laurel Middle School(5th -8th)      8:05 a.m. - 3:20 p.m.	                   8:05 a.m. - 2:30 p.m.
 Laurel High School (9th -12th)      8:18 a.m. - 3:33 p.m.	                   8:18 a.m. - 2:23 p.m.
 ```
-For more information (specific bell schedules), please refer to student [handbooks.](/docs/category/student-handbooks)
+For more information (specific bell schedules), please refer to student [handbooks.](/docs/category/handbooks)
 ## Enrollment
 [New Student enrollment](https://mtdecloud2.infinitecampus.org/campus/apps/olr/application/login/email-choose-year)
 
@@ -40,6 +40,9 @@ For more information (specific bell schedules), please refer to student [handboo
 
 [High School](https://www.laurel.k12.mt.us/fs/form-manager/view/0374b9c2-a4be-4e39-b7b4-88e7a2354b1e)
 
+---
+
+## [Bus Registration Form](https://laurel.flowforms.io/busregistration)
 
 ---
 
@@ -105,3 +108,7 @@ For more information (specific bell schedules), please refer to student [handboo
 - [Pledge Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/6d05fbfd-a695-4bcd-aeae-200a8a3cb3a3)
 - [Concussion Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/0726482d-0aab-4957-9744-75eca02036f9)
 - [Sports Physical Form](https://cdn1.sportngin.com/attachments/document/ad7e-1857956/Pre-participationPhysicalForm-2022-23_1_.pdf#_ga=2.225630942.511108639.1660254334-1992758709.1660254333)
+
+---
+
+## [Religious Exemption Form](https://resources.finalsite.net/images/v1650572778/laurelk12mtus/zbfsznwsycolbk4cezhy/religiousexemptionform.pdf)

@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
-import testpage from './test-page';
+// import testpage from './test-page';
 
 
 import styles from './index.module.css';
@@ -24,6 +24,7 @@ function HomepageHeader() {
         </div>
       </div>
     </header>
+
   );
 }
 
@@ -34,9 +35,6 @@ export default function Home() {
       title={`LPS`}
       description="LPS Links and Forms">
       <HomepageHeader />
-      { <main>
-        <testpage />
-      </main> }
     </Layout>
   );
 }

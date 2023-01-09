@@ -50,7 +50,7 @@ FAX: 406-435-6236
 
 ---
 
-## [Parent/Athlete Forms](/docs/Parent/Parent%20Links.md#athletics-and-activities)
+## [Parent/Athlete Forms](/docs/Parents/Parents.md#athletics-and-activities)
 
 ---
 
