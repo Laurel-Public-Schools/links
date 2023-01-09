@@ -48,6 +48,7 @@ To deploy locally, build the docker image from the root of the repository
 docker build -t laurellinks:latest .
 ```
 *note that the period is required, that tells docker  to build from your working location*
+
 and then make a container using the image
 ```
 docker run --rm -name laurellinks -p 3000:3000 -d laurellinks:latest 
