@@ -55,6 +55,11 @@ const config = {
             position: 'left',
             label: 'Links and Forms',
           },
+          {
+            href: 'https://laurel.k12.mt.us',
+            position: 'right',
+            label: 'Return to District Website'
+          }
         ],
       },
       algolia: {
