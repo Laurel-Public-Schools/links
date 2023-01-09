@@ -74,7 +74,7 @@ const config = {
 
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. LPS Links and Documentation Site Built by [Ellie Kerns](https://github.com/biohackerellie)`,
+        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. LPS Links and Documentation Site Built by Ellie Kerns',
       },
       prism: {
         theme: lightCodeTheme,
