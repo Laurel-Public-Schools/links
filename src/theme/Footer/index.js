@@ -4,10 +4,10 @@ import Footer from '@theme-original/Footer';
 export default function FooterWrapper(props) {
   return (
     <>
-    <section>
+    {/* <section>
       <h2> test</h2>
       <p> poop</p>
-    </section>
+    </section> */}
       <Footer {...props} />
     </>
   );
