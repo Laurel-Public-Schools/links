@@ -45,11 +45,12 @@ cmd+c
 
 To deploy locally, build the docker image from the root of the repository 
 ```
-docker build -t imagename:latest .
+docker build -t laurellinks:latest .
 ```
+*note that the period is required, that tells docker  to build from your working location*
 and then make a container using the image
 ```
-docker run --rm -p 3000:3000 imagename:latest 
+docker run --rm -name laurellinks -p 3000:3000 -d laurellinks:latest 
 ```
 
 You will be able to open the static web content at http://localhost:3000
