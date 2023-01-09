@@ -18,15 +18,25 @@ jobs:
       id: close
       run: docker stop laurellinks
 
+    - uses: actions/checkout@v3
+    - name: Delete previous container
+      id: delete
+      run: docker image prune -a 
+
     - uses: actions/checkout@v3  
     - name: Build the Docker image
       id: build
-      run: docker build . --file Dockerfile --tag laurellinks
+      run: docker build . --file Dockerfile --tag laurellinks:latest
 
     - uses: actions/checkout@v3
     - name: Deploy the docker container
       id: deploy
       run: docker run --rm --name laurellinks  -p 3000:3000 -d laurellinks:latest
       if: steps.build.outcome == 'success'
-    
-   
+
+    - uses: actions/checkout@v3
+    - name: git commit
+      id: git
+      run: git add . &&  sudo git add -u && sudo git commit -m "desc" && sudo git push 
+      if: steps.deploy.outcome == 'success'
+
