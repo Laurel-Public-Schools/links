@@ -29,4 +29,5 @@ temp
 
 webcrawler/.env
 .github/workflows/docker-image.yml
+.github/workflows/tagged-release.yml
 act.sh
