@@ -82,15 +82,7 @@ const config = {
 
       footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by <a href=\"https://github.com/boihackerellie\">Ellie Kerns</a>` ,
-      logo: {
-          alt: 'LPS',
-          src: 'img/LPS.svg',
-          href: 'https://laurel.k12.mt.us', 
-          width: 841,
-          height: 125,
-        },
-        
+      copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by <a href=\"https://github.com/boihackerellie\">Ellie Kerns</a>` ,       
       },
       prism: {
         theme: lightCodeTheme,
