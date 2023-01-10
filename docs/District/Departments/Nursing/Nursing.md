@@ -70,4 +70,7 @@ From Laurel Elementary Schools’ Handbook:
 - [Medication Error Reporting Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/3684e2a7-58ad-4d76-90e9-170d25ff93fd)
 ### Emergency Resources
 #### Algorithms for School Emergencies
--[C4 Algorithm Seizures](https://www.laurel.k12.mt.us/fs/resource-manager/view/98e4a73e-2a36-41d8-9351-235f5c07f6ce)
+- [C1 Algorithm Allergic Reaction](https://www.laurel.k12.mt.us/fs/resource-manager/view/ebaa67ef-4e08-4979-9f10-368c36022cd8)
+- [C2 Algorithm Asthma Wheezing Breathing Difficulty](https://www.laurel.k12.mt.us/fs/resource-manager/view/2cac5585-c277-442f-8489-234d2df6c371)
+- [C3 Algorithm Diabetes](https://www.laurel.k12.mt.us/fs/resource-manager/view/63382fb3-d545-4df2-b5e6-dbcdfea92675)
+- [C4 Algorithm Seizures](https://www.laurel.k12.mt.us/fs/resource-manager/view/98e4a73e-2a36-41d8-9351-235f5c07f6ce)

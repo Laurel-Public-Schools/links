@@ -51,7 +51,7 @@ docker build -t laurellinks:latest .
 
 and then make a container using the image
 ```
-docker run --rm -name laurellinks -p 3000:3000 -d laurellinks:latest 
+docker run --rm --name laurellinks -p 3000:3000 -d laurellinks:latest 
 ```
 
 You will be able to open the static web content at http://localhost:3000
