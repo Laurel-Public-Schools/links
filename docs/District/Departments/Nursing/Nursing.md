@@ -52,5 +52,22 @@ From Laurel Elementary Schools’ Handbook:
 
 “Studies have shown that control measures such as, mass screenings for nits, have not been shown to have a significant effect on the incidence of head lice in a school community, nor have they shown to be cost-effective” (Devore et al. 2015; Meinking & Taplin, 2011 CDC 2013a)
 </details>
+
 - [Head Lice Info Sheet](https://www.laurel.k12.mt.us/fs/resource-manager/view/f5930058-83ef-4183-9ec2-9e5362fb3f9a)
 - [Bed Bug Policy](https://www.laurel.k12.mt.us/fs/resource-manager/view/869b9f3f-2fef-445f-ba99-3bb9162865d1)
+
+## [Illness Policy](https://www.laurel.k12.mt.us/fs/resource-manager/view/af35959e-05c1-442f-b69f-f4fb0a567615)
+
+## Health Forms for School Staff
+### Forms for Staff Use & Medication Policies
+- [Head Injury Report Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/6c862fdb-21e0-4fb7-b9a1-26d31c3e3e76)
+- [Accident Report Form](https://drive.google.com/file/d/1x9ygmaPOkqFMwLh_pMngC57f_IGixniT/view?usp=sharing)
+- [Medication Logs for Documentation](https://www.laurel.k12.mt.us/fs/resource-manager/view/ec47a46c-e240-417e-bdbc-1403356c3a32)
+- [Procedure for Completing Medication Log & Sample Medication Log](https://www.laurel.k12.mt.us/fs/resource-manager/view/0323849d-3a2b-4936-b915-137b50dc00f9)
+- [LPS Medication Policy 3416](https://www.laurel.k12.mt.us/fs/resource-manager/view/5ef34df4-2df2-4ee1-8521-e489d1791bc5)
+- [Six Rights of Medication Administration](https://www.laurel.k12.mt.us/fs/resource-manager/view/7f13b232-f7b8-4de8-8958-328c11f094a9)
+- [Procedure for Medication Errors](https://www.laurel.k12.mt.us/fs/resource-manager/view/949523a4-f459-4a56-8c67-7631d76c127d)
+- [Medication Error Reporting Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/3684e2a7-58ad-4d76-90e9-170d25ff93fd)
+### Emergency Resources
+#### Algorithms for School Emergencies
+-[C4 Algorithm Seizures](https://www.laurel.k12.mt.us/fs/resource-manager/view/98e4a73e-2a36-41d8-9351-235f5c07f6ce)

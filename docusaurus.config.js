@@ -74,10 +74,10 @@ const config = {
 
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. LPS Links and Documentation Site Built by Ellie Kerns` ,
+        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools.` ,
         links: [
           {
-          label: 'Follow on Github',
+          label: 'LPS Links and Documentation Site Built by Ellie Kerns',
           href: 'https://github.com/biohackerellie',
         }
         ]
