@@ -81,7 +81,7 @@ const config = {
       },
 
       footer: {
-      style: 'dark',
+      style: 'light',
       copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by <a href=\"https://github.com/boihackerellie\">Ellie Kerns</a>` ,       
       },
       prism: {
