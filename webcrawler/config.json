@@ -1,7 +1,7 @@
 {
     "index_name": "docsearch",
     "start_urls": [
-      "https://links.laurel.k12.mt.us/docs/"
+      "https://links.laurel.k12.mt.us"
     ],
     "sitemap_urls": [
       "https://links.laurel.k12.mt.us/sitemap.xml"
