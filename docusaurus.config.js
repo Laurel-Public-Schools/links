@@ -73,14 +73,16 @@ const config = {
       },
 
       footer: {
-        style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools.` ,
-        links: [
-          {
-          label: 'LPS Links and Documentation Site Built by Ellie Kerns',
-          href: 'https://github.com/biohackerellie',
-        }
-        ]
+      style: 'dark',
+      copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by <a href=\"https://github.io/boihackerellie\">Ellie Kerns</a>` ,
+      logo: {
+          alt: 'LPS',
+          src: 'img/LPS.svg',
+          href: 'https://laurel.k12.mt.us', 
+          width: 841,
+          height: 125,
+        },
+        
       },
       prism: {
         theme: lightCodeTheme,
