@@ -91,6 +91,6 @@ If you have any issues or questions regarding this process, please contact:
 
 | Who           | For          | How         |
 | ------------- | -------------| ----------- |
-| Geralyn Hill - Facilities Secretary | Questions regarding your application, agreement, rental fees, rental process | 406-628-3333 ext 3586, [geralyn_hill@laurel.k12.mt.us](geralyn_hill@laurel.k12.mt.us)
-| Ellie Kerns - IT Systems Administrator | Questions or issues regarding the schoolspace website, or techknowledgy needs for your reservation. | 406-628-3333 ext 3304, [elliana_kerns@laurel.k12.mt.us](elliana_kerns@laurel.k12.mt.us)
-| Riley Mayo - Activities Director | Questions regarding LPS sporting events or activities | 406-628-3500 ext 3509, [lpsactivities@laurel.k12.mt.us](lpsactivities@laurel.k12.mt.us)
+| Geralyn Hill - Facilities Secretary | Questions regarding your application, agreement, rental fees, rental process | 406-628-3333 ext 3586, geralyn_hill@laurel.k12.mt.us
+| Ellie Kerns - IT Systems Administrator | Questions or issues regarding the schoolspace website, or techknowledgy needs for your reservation. | 406-628-3333 ext 3304, elliana_kerns@laurel.k12.mt.us
+| Riley Mayo - Activities Director | Questions regarding LPS sporting events or activities | 406-628-3500 ext 3509, lpsactivities@laurel.k12.mt.us
