@@ -69,7 +69,7 @@ This last question asks about door access. Please state whether or not you need 
 **Once we receive your request, we will approve or decline it, or we may need to contact you for more information. Keep an eye on your email, you will receive a notice after it's been approved or declined, and if approved, you will need to sign our contract**
 
 ### Viewing your request status and contract
-To check the status of your request at any time, you can return to the main page of [SchoolSpace](https://laurel.schoolspace.us) and once your signed in, click your name in the top right corner, and click `My Requests` 
+To check the status of your request at any time, you can return to the main page of [SchoolSpace](https://laurel.schoolspace.us) and once you're signed in, click your name in the top right corner, and click `My Requests` 
 
 ![SP5](./img/SP5.png)
 
