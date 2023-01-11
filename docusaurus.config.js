@@ -70,6 +70,11 @@ const config = {
           }
         ],
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+      },
       algolia: {
         // The application ID provided by Algolia
         appId: '58DY084X0I',
