@@ -1,25 +1,16 @@
-<<<<<<< HEAD
+
 ## Time Clock
 ### [Time Clock Plus - Staff](https://151866.tcplusondemand.com/app/webclock/#/EmployeeLogOn/151866)
 ### [Time Clock Plus - Manager](https://151866.tcplusondemand.com/app/manager/#/ManagerLogOn/151866)
 ---
-
-
-
-=======
-
 
 ## [Employee Access Portal](https://laurelpublicschoolsmt.tylerportico.com/tesp/employee-selfservice/)
 
 ## [Ready Sub](https://app.readysub.com/account/login)
 
 
-
-
-
 ---
 
->>>>>>> 323a62eb73627a14cb515dba46ec445f7179643e
 ## HR Forms and Documents
 
 ### [Coursework Approval Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/cae485a8-2c02-4174-bb83-8ecd246d4445)
