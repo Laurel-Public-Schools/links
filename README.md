@@ -38,28 +38,25 @@ ctrl+c
 cmd+c
 ```
 
-### Build the package for deployment
 
+## Deployment
+
+#### This site is deployed locally via docker but will also run on Github Pages, Vercel, etc.
+
+To deploy locally, build the docker image from the root of the repository 
 ```
-npm build
+docker build -t laurellinks:latest .
+```
+*note that the period is required, that tells docker  to build from your working location*
+
+and then make a container using the image
+```
+docker run --rm --name laurellinks -p 3000:3000 -d laurellinks:latest 
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-We are using the official Node.js Docker container which can be found on [Dockerhub](https://hub.docker.com/_/node) 
-
-### To build this repo, attach command line to the running container, then run the following:
-```
-git clone https://github.com/Laurel-Public-Schools/links.git \ 
-cd links \
-npm install \
-&& npm install docusaurus \
-&& npm run build \
-&& npm run serve
-```
 You will be able to open the static web content at http://localhost:3000
+
+Any time updates are made to your site and are ready for live deployment, simply rebuild and run the image. *this can be done automatically on git push's via github actions or webooks*
 
 
 Built by [@biohackerellie](https://www.github.com/biohackerellie)

@@ -1,7 +1,7 @@
 ---
 sidebar_position: 1
 ---
-# Parent Links
+# Parents
 
 A list of external links for parents of Laurel Public School Students
 =====================================================================
@@ -108,3 +108,7 @@ For more information (specific bell schedules), please refer to student [handboo
 - [Pledge Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/6d05fbfd-a695-4bcd-aeae-200a8a3cb3a3)
 - [Concussion Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/0726482d-0aab-4957-9744-75eca02036f9)
 - [Sports Physical Form](https://cdn1.sportngin.com/attachments/document/ad7e-1857956/Pre-participationPhysicalForm-2022-23_1_.pdf#_ga=2.225630942.511108639.1660254334-1992758709.1660254333)
+
+---
+
+## [Religious Exemption Form](https://resources.finalsite.net/images/v1650572778/laurelk12mtus/zbfsznwsycolbk4cezhy/religiousexemptionform.pdf)

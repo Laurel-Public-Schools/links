@@ -1,0 +1,1 @@
+docker run -it --env-file=.env -e "CONFIG=$(cat /mnt/file/linux/app-configs/links/webcrawler/config.json | jq -r tostring)" algolia/docsearch-scraper

@@ -1,13 +1,25 @@
-FROM node:12-alpine as builder
+#Build step
 
-WORKDIR /app/website
-COPY . /app/website
-RUN apk add autoconf libtool automake
-RUN apk add libtool
-RUN apk add automake
-RUN apk --update add gcc make g++ zlib-dev
-RUN npm install
-#RUN yarn
+FROM node:19.3.0 AS build
+ENV NODE_ENV=production
+ENV NPM_CONFIG_LOGLEVEL=error
+WORKDIR /app
+COPY ["package.json", "package-lock.json*", "./"]
+RUN npm install --force
+COPY . .
+RUN npm run build || true
+
+#Deployment step
+
+FROM busybox:1.35 as deploy
+
+RUN adduser -D static
+USER static
+WORKDIR /home/static
+
+COPY --from=build /app/build/ ./
+
 EXPOSE 3000
-RUN npm build
-CMD ["npm", "start"]
+
+CMD ["busybox", "httpd", "-f", "-v", "-p", "3000"]
+

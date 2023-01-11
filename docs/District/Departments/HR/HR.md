@@ -12,3 +12,4 @@
 - [American Fidelity](https://drive.google.com/file/d/1IxkJGrdfC_WslJvbMZqswzyABY-e-I9v/view?usp=sharing)
 - [Marketplace Coverage Options](https://drive.google.com/file/d/1ciWbnDuuUGXqLfTAOPPiDYywHRYkjibq/view?usp=sharing)
 - [Job Opportunities](https://laurel.tedk12.com/hire/index.aspx)
+- [Student Teacher Registration Form](https://www.laurel.k12.mt.us/fs/form-manager/view/868ae1f4-545b-4f0a-91e4-e7fabd209c27)
