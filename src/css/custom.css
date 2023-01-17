@@ -1,12 +1,13 @@
+/* theme colors */
 
 :root {
   --ifm-color-primary: #9b03c9;
-  --ifm-color-primary-dark: #9b03c9;
-  --ifm-color-primary-darker: #9b03c9;
-  --ifm-color-primary-darkest: #9b03c9;
-  --ifm-color-primary-light: #9b03c9;
-  --ifm-color-primary-lighter: #9b03c9;
-  --ifm-color-primary-lightest: #9b03c9;
+  --ifm-color-primary-dark: #8b03b5;
+  --ifm-color-primary-darker: #8403ab;
+  --ifm-color-primary-darkest: #6c028d;
+  --ifm-color-primary-light: #aa03dd;
+  --ifm-color-primary-lighter: #b203e7;
+  --ifm-color-primary-lightest: #b203e7;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
@@ -22,3 +23,6 @@
   --ifm-color-primary-lightest: #f7b512;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+
+

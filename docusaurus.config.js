@@ -7,8 +7,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'LPS Links and Forms',
-  tagline: 'All links and forms in one place',
+  title: 'Laurel Public Schools',
+  tagline: 'Dedicated to the individual development of each student, every day, without exception',
   url: 'https://links.laurel.k12.mt.us',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -50,13 +50,24 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'LPS Links and Forms',
+        title: 'Laurel Public Schools',
         logo: {
           alt: 'LPS Logo',
           src: 'img/train.png',
         },
         
         items: [
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'District',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
           {
             type: 'doc',
             docId: 'intro',
