@@ -66,6 +66,212 @@ const config = {
                 label: 'School Board',
                 href: 'https://www.laurel.k12.mt.us/district/school-board',
               },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Departments',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Schools',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Parent',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Student',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Employment',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+            ],
+          },
+          {
+            type: 'dropdown',
+            position: 'left',
+            label: 'Staff',
+            items: [
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
+              {
+                label: 'School Board',
+                href: 'https://www.laurel.k12.mt.us/district/school-board',
+              },
             ],
           },
           {
@@ -82,7 +288,7 @@ const config = {
         ],
       },
       colorMode: {
-        defaultMode: 'dark',
+        defaultMode: 'light',
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },

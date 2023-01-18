@@ -4,37 +4,39 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 // import testpage from './test-page';
+import {Container, Col, Row, } from "react-bootstrap"
 
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
-  return (
-    <header className={clsx('hero hero--primary', styles.heroBanner)}>
-      <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <div className={styles.buttons}>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/intro">
-            Get Started
-          </Link>
-        </div>
-      </div>
-    </header>
 
-  );
+  return (
+          <section>
+            <Container className= ".home-section">
+            <Container className= ".homeHeader">
+              <Row className= ".homeHeader">
+              <span></span>
+                <span></span>
+                <span></span>
+                  <h1> Laurel Public Schools 
+
+                  </h1>
+                  </Row>
+            </Container>
+            </Container>
+            </section>
+            
+  )
 }
 
+
+
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
+  //const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`LPS`}
-      description="LPS Links and Forms">
+
       <HomepageHeader />
-    </Layout>
+
   );
 }

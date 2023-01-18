@@ -3,6 +3,13 @@
  * and scoped locally.
  */
 
+html {
+  --section-background-color: linear-gradient(
+    to bottom left,
+    rgba(149, 32, 173, 0.712),
+    rgba(45, 108, 133, 0.699)
+  );
+}
 .heroBanner {
   padding: 4rem 0;
   text-align: center;
@@ -20,4 +27,15 @@
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.home-section {
+  background-color: var(--section-background-color);
+}
+
+.homeHeader {
+  position: fixed !important;
+  text-align: center !important;
+  color: #52006b !important;
+  background-color: #52006b !important;
 }
