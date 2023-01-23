@@ -93,4 +93,4 @@
 
 ---
 
-### [Report Bullying](https://lhs.laurel.k12.mt.us/lhs-quick-links/report-bullying)
+### [Report Bullying](https://laurel.flowforms.io/permanent/form/for_4kjoq3ddnXYzr)
