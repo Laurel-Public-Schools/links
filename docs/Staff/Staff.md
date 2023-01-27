@@ -8,7 +8,7 @@
 
 ## [Ready Sub](https://app.readysub.com/account/login)
 
-
+## [Copy Work Request](https://docs.google.com/forms/d/e/1FAIpQLSd_aJPLf6ZUtCynMWiFFslpgKtOZk-Djf5p49u1xmVGQ07-rQ/viewform)
 ---
 
 ## HR Forms and Documents
