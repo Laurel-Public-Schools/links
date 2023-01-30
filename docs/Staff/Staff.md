@@ -13,6 +13,9 @@ sidebar_position: 6
 
 ## [Ready Sub](https://app.readysub.com/account/login)
 
+## [SafeSchools](https://laurel-mt.safeschools.com/login)
+## [TalentEd](https://laurel.tedk12.com/sso/account/login?)
+
 ## [Copy Work Request](https://docs.google.com/forms/d/e/1FAIpQLSd_aJPLf6ZUtCynMWiFFslpgKtOZk-Djf5p49u1xmVGQ07-rQ/viewform)
 
 ---
@@ -58,12 +61,9 @@ sidebar_position: 6
 
 ### [Coursework Approval Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/cae485a8-2c02-4174-bb83-8ecd246d4445)
 ### [Employee Policy Sign-Off Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/9cc21471-fc52-47de-ad25-b682344ab5cb)
+### [Employee Handbook](/docs/Handbooks/Staff%20Handbook.md)
 ### [Safety Manual](https://resources.finalsite.net/images/v1650575446/laurelk12mtus/tlslnc8tfdgcfoqivdzw/safetymanual.pdf)
 ### [First Report of Injury Form](https://drive.google.com/file/d/137CP-Q2RBgs3rennaCiFFhtjZRe-Wg29/view)
-### [Covid FAQ](https://drive.google.com/file/d/1hR_vNjowfp8Vtx0lyYRyLrfBC0t4wB2Z/view?usp=sharing)
-### [COVID Testing Available in Our Area](https://drive.google.com/file/d/1X6DnxIdqhWRgTI-qctizsMAkhFKpIJD_/view?usp=sharing)
-### [SafeSchools](https://laurel-mt.safeschools.com/login)
-### [TalentEd](https://laurel.tedk12.com/sso/account/login?)
 ### [FMLA](https://www.dol.gov/agencies/whd/fmla)
 ### Pay Dates
 - [22-23 Classified,Admin,Admin Support](https://drive.google.com/file/d/13_Niws7cip5SgNld7spaDUi_4ulwgntl/view?usp=sharing)
