@@ -59,11 +59,12 @@ sidebar_position: 6
 
 ## HR Forms and Documents
 
+### [First Report of Injury Form (Work Comp)](https://drive.google.com/file/d/137CP-Q2RBgs3rennaCiFFhtjZRe-Wg29/view)
 ### [Coursework Approval Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/cae485a8-2c02-4174-bb83-8ecd246d4445)
 ### [Employee Policy Sign-Off Form](https://www.laurel.k12.mt.us/fs/resource-manager/view/9cc21471-fc52-47de-ad25-b682344ab5cb)
 ### [Employee Handbook](/docs/Handbooks/Staff%20Handbook.md)
 ### [Safety Manual](https://resources.finalsite.net/images/v1650575446/laurelk12mtus/tlslnc8tfdgcfoqivdzw/safetymanual.pdf)
-### [First Report of Injury Form](https://drive.google.com/file/d/137CP-Q2RBgs3rennaCiFFhtjZRe-Wg29/view)
+
 ### [FMLA](https://www.dol.gov/agencies/whd/fmla)
 ### Pay Dates
 - [22-23 Classified,Admin,Admin Support](https://drive.google.com/file/d/13_Niws7cip5SgNld7spaDUi_4ulwgntl/view?usp=sharing)
