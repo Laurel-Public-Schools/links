@@ -18,3 +18,10 @@
 
 [World Book Encyclopedia](https://www.worldbookonline.com/wb/Login?ed=wb&subacct=N7401) *Log-in ID: `laurel21` Password: `research` *
 
+---
+### [Report Bullying](https://laurel.flowforms.io/permanent/form/for_4kjoq3ddnXYzr)
+
+---
+
+### [Student Name Preferences - Parent/Guardian Authorization Form](https://laurel.flowforms.io/permanent/form/for_7M0b2lp62PgmG)
+

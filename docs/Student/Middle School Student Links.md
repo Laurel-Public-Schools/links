@@ -47,3 +47,7 @@
 - [Sports Physical Form](https://cdn1.sportngin.com/attachments/document/ad7e-1857956/Pre-participationPhysicalForm-2022-23_1_.pdf#_ga=2.225630942.511108639.1660254334-1992758709.1660254333)
 ---
 ### [Report Bullying](https://laurel.flowforms.io/permanent/form/for_4kjoq3ddnXYzr)
+
+---
+
+### [Student Name Preferences - Parent/Guardian Authorization Form](https://laurel.flowforms.io/permanent/form/for_7M0b2lp62PgmG)
