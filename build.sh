@@ -5,7 +5,7 @@ CONTAINER_NAME=links
 IMAGE_NAME=links
 
 # Change to the directory containing the Git repository
-cd mnt/file/linux/app-configs/links
+cd /etc/links
 
 # Check for updates
 git fetch
