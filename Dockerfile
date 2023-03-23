@@ -1,6 +1,6 @@
 #Build step
 
-FROM node:19.3.0 AS build
+FROM node:latest AS build
 ENV NODE_ENV=production
 ENV NPM_CONFIG_LOGLEVEL=error
 WORKDIR /app
