@@ -75,6 +75,11 @@ const config = {
         disableSwitch: false,
         respectPrefersColorScheme: false,
       },
+			docs: {
+				sidebar: {
+					hideable: true,
+				}
+			},
       algolia: {
         // The application ID provided by Algolia
         appId: '58DY084X0I',
