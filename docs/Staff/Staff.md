@@ -41,7 +41,7 @@ sidebar_position: 6
 ## Forms
 - [Replacement Badge Request](https://laurelschools.atlassian.net/servicedesk/customer/portal/5/group/21/create/75)
 - [District Asset Disposal Form](https://forms.microsoft.com/Pages/ResponsePage.aspx?id=EyTZhldBbEq4wxjaktsl3zo4nRogrbNLn_dFq4wg9JxURTFGOFJaTEJDV05HWFcwMjFURVBIQ1kzNC4u&amp)
-- - [Accident Report Form](https://laurel.flowforms.io/form/accident-report)
+- [Accident Report Form](https://laurel.flowforms.io/form/accident-report)
 
 
 ### Travel Forms
