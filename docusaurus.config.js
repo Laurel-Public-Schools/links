@@ -92,7 +92,7 @@ const config = {
 
       footer: {
       style: 'light',
-      copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools. Built by <a href=\"https://github.com/biohackerellie\">Ellie Kerns</a>` ,       
+      copyright: `Copyright © ${new Date().getFullYear()} Laurel Public Schools.` ,       
       },
       prism: {
         theme: lightCodeTheme,
