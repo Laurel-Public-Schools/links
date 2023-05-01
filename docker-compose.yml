@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  links:
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    image: links
+    container_name: links
+    restart: unless-stopped
+    ports: 
+      - '3000:3000'
+  
