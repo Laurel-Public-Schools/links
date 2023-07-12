@@ -2,9 +2,9 @@
 
 ---
 
-:::alert
+:::danger **IMPORTANT**
 **This Page is currently out dated and will be updated soon, if you are having trouble with the reservation system, please email Ellie at [elliana_kerns@laurel.k12.mt.us](mailto:elliana_kerns@laurel.k12.mt.us)**
-::: 
+:::
 
 ## Accessing the reservation website
 
