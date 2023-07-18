@@ -49,3 +49,14 @@ If you have any issues or questions regarding this process, please contact:
 | Geralyn Hill - Facilities Secretary    | Questions regarding your application, agreement, rental fees, rental process         | 406-628-3333 ext 3586, geralyn_hill@laurel.k12.mt.us  |
 | Ellie Kerns - IT Systems Administrator | Questions or issues regarding the website, or technology needs for your reservation. | 406-628-3333 ext 3304, elliana_kerns@laurel.k12.mt.us |
 | Andrew Torgerson - Activities Director | Questions regarding LPS sporting events or activities                                | 406-628-3500 ext 3509, lpsactivities@laurel.k12.mt.us |
+
+## LPS Staff
+
+Our staff members now have a new way to reserve a space for use that does not require a reservation at all
+
+:::note
+This only applies to school events such as choir concerts, basketball practice, etc.
+:::
+
+Staff can simply use google calendar to make their event. On the right side of the screen, select the `Rooms` tab, and you can mark whichever spaces you will be using for your event. ![facilities9](./img/facilities9.png)
+Any event added this way will automatically be synced with the reservation system, so the public view will still show the event taking place at your reserved time.
