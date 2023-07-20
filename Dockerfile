@@ -5,7 +5,7 @@ ENV NODE_ENV=production
 ENV NPM_CONFIG_LOGLEVEL=error
 WORKDIR /app
 COPY ["package.json", "package-lock.json*", "./"]
-RUN npm install --force
+RUN npm ci --force
 COPY . .
 RUN npm run build || true
 
