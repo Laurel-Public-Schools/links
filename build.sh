@@ -1,21 +1,18 @@
 #!/bin/bash
 
 # Change to the directory containing the Git repository
-cd /etc/links
+cd /srv/git/links
 
 # Check for updates
-git fetch
+git fetch 
 
-# Compare local and remote branches to check for changes
 if ! git diff --quiet HEAD @{u}; then
     # Pull changes if there are any
+    echo "$(date) - Changes detected. Pulling changes and rebuilding." 
     git pull && \
-		docker-compose build && \
-		docker-compose down && \
-		docker-compose up -d 
-
-
+		docker build -t localhost:5000/links . && \
+		docker push localhost:5000/links && \
+		docker stack deploy -c docker-compose.yml links 
 else
-    echo "No changes. Exiting."
+    echo "$(date) - No changes. Exiting." 
 fi
-
