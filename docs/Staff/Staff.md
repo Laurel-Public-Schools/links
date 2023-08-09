@@ -76,35 +76,21 @@ sidebar_position: 6
 
 ### [FMLA](https://www.dol.gov/agencies/whd/fmla)
 
-### Pay Dates
 
-- [22-23 Classified,Admin,Admin Support](https://drive.google.com/file/d/13_Niws7cip5SgNld7spaDUi_4ulwgntl/view?usp=sharing)
-- [23-25 Certified](https://www.laurel.k12.mt.us/fs/resource-manager/view/283afd88-9098-4c3c-aadd-7fbcbaeb4387)
-- [22-23 Extra-Curricular and Co-Curricular ](https://drive.google.com/file/d/1g9pcZ92bZbBjr19IvaR6pjVB47bxRPwf/view?usp=sharing)
 
 ### [Student Teacher Registration](https://www.laurel.k12.mt.us/fs/form-manager/view/868ae1f4-545b-4f0a-91e4-e7fabd209c27)
 
 ### Agreements
 
-- [MASTER AGREEMENT FOR CERTIFIED PERSONNEL](https://www.laurel.k12.mt.us/fs/resource-manager/view/f4af7eaa-dd6a-4ce4-8e39-e7ed9609ca12)
-- [MASTER AGREEMENT FOR CLASSIFIED PERSONNEL](https://www.laurel.k12.mt.us/fs/resource-manager/view/e3395a64-bb4b-4436-b374-93c430eaee8a)
+- [MASTER AGREEMENT FOR CERTIFIED PERSONNEL](https://resources.finalsite.net/images/v1690204793/laurelk12mtus/cnshoqbngfasgwwevgt9/CertifiedCBA23-25.pdf)
+- [MASTER AGREEMENT FOR CLASSIFIED PERSONNEL](https://www.laurel.k12.mt.us/fs/resource-manager/view/283afd88-9098-4c3c-aadd-7fbcbaeb4387)
 
 ### Benefits
 
-- [Employee Benefits Booklet for 2022-2023 School Year](https://drive.google.com/file/d/1OHeVbgBLJzXhuyKSBXQcbSSlMAmh3dyt/view?usp=sharing)
-- [HDHP Summary of Benefits 2022-2023](https://drive.google.com/file/d/139VfL-11qU7KExs0lU62Fs6Qb2oqyuGH/view?usp=sharing)
-- [TRAD 1500 Summary of Benefits 2022-2023](https://drive.google.com/file/d/1386UkWa3QZ08m5yST-AhOdPswYkV4fzw/view?usp=sharing)
-- [SmithRX Preventative Medications](https://www.laurel.k12.mt.us/fs/resource-manager/view/59745dc7-76f5-4779-9859-d4be921bf9b2)
-- [MiCare](https://mibenefits.ebms.com/auth/login)
+[Benefits Page](https://www.laurel.k12.mt.us/departments/human-resources/benefits)
 
-#### Benefits Videos
+* [Employee Benefits Booklet for 2023-2024 School Year](https://resources.finalsite.net/images/v1691586461/laurelk12mtus/iicezamcr9e26v8h6bxw/BRO_BenefitGuide_Laurel2023-20243.pdf)
 
-- [Overview _Provides a general overview of the plans_](https://leavitt.zoom.us/rec/play/57URkfleRw1VFDQIuKroPmhm4AsqlkkkzWTpNuqnLOdwT_p8UbDonUOh9SozZdiD6-s9Icslj-QBQZwO.FWmk3tziVXlEixDe?startTime=1620753636000&_x_zm_rtaid=fmd6Zhj-RI6H65jo-aFcWg.1620853605726.867552f75eae7aa0d1a5b4ad304d6978&_x_zm_rhtaid=816)
-- [Medical](https://leavitt.zoom.us/rec/play/hQLIsdfJ6UVFU-cbr1WzYc3_TWXRY1vqkdgNSfX2UyDcShE3Mf-_lNVpuFBqfLYC2TKjbJUlWbbvT_1v.ei4Dx2yoBeJ5wg2S?startTime=1620754103000&_x_zm_rtaid=fmd6Zhj-RI6H65jo-aFcWg.1620853605726.867552f75eae7aa0d1a5b4ad304d6978&_x_zm_rhtaid=816)
-- [Prescription Drug Plan Document](https://www.laurel.k12.mt.us/fs/resource-manager/view/b699f179-30e1-4fc3-ab35-e1e58ad35b70)
-- [Dental and Vision](https://leavitt.zoom.us/rec/play/_UUhqJ8dK3kt09akNp6qj85YEEknPNRXReGkxN9DtQuxjwW1W1gKsT3Z9dd5-orDqF1uOcTGMxgr0n4D.xsBz05gL5u0iSYL0?startTime=1620754719000&_x_zm_rtaid=fmd6Zhj-RI6H65jo-aFcWg.1620853605726.867552f75eae7aa0d1a5b4ad304d6978&_x_zm_rhtaid=816)
-- [Life/Disability/Employee Assistance Program (EAP)](https://leavitt.zoom.us/rec/play/HsxSmDZ2qWAqE-7lyF0oshY9p3X0PxsTN2je2EZ_BzR2IekJ_Cragn3hBhwZ56PjMM0lQP0UC80kAAwg.m3crkAjBiykdGYoi?startTime=1620755020000&_x_zm_rtaid=fmd6Zhj-RI6H65jo-aFcWg.1620853605726.867552f75eae7aa0d1a5b4ad304d6978&_x_zm_rhtaid=816)
-- [Flex and HSA (Flexible Spending Accounts (Flex) and Health Savings Accounts (HSA))](https://leavitt.zoom.us/rec/play/9ONwDNSUXsTpUvTsbflI2YTs1hSrVykxbk4Ry0Yb7HpdHTMfkD6-slpRFBjsaDBolfMKd_MKlotijgHc.AGRMlGCOpRtv8Zhx?startTime=1620755546000&_x_zm_rtaid=fmd6Zhj-RI6H65jo-aFcWg.1620853605726.867552f75eae7aa0d1a5b4ad304d6978&_x_zm_rhtaid=816)
 
 ---
 

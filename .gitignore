@@ -26,6 +26,7 @@ temp
 
 .github
 
+*.obsidian
 
 webcrawler/.env
 .github/workflows/docker-image.yml
