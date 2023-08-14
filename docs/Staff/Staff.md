@@ -83,7 +83,7 @@ sidebar_position: 6
 ### Agreements
 
 - [MASTER AGREEMENT FOR CERTIFIED PERSONNEL](https://resources.finalsite.net/images/v1690204793/laurelk12mtus/cnshoqbngfasgwwevgt9/CertifiedCBA23-25.pdf)
-- [MASTER AGREEMENT FOR CLASSIFIED PERSONNEL](https://www.laurel.k12.mt.us/fs/resource-manager/view/283afd88-9098-4c3c-aadd-7fbcbaeb4387)
+- [MASTER AGREEMENT FOR CLASSIFIED PERSONNEL](https://resources.finalsite.net/images/v1690204793/laurelk12mtus/i3htpjuxaqbjmayyttk9/ClassifiedCBA23-25.pdf)
 
 ### Benefits
 
