@@ -24,7 +24,7 @@ sidebar_position: 6
 
 ## General Links
 
-- [Child Abuse & Neglect](https://dphhs.mt.gov/Portals/85/cfsd/documents/SchoolGuidelinesChildAbuseandNeglect.pdf)
+- [Child Abuse & Neglect](https://dphhs.mt.gov/assets/cfsd/SchoolGuidelinesBooklet.pdf)
 - [Google Email - Staff](https://mail.google.com/)
 - [Infinite Campus - Staff](https://mtdecloud2.infinitecampus.org/campus/laurel.jsp)
 - [Staff Directory - Phone #s](https://docs.google.com/spreadsheets/d/14Vasu096UplGk-2D-J1fxoIC3ny0CY38muNfjEDu5U0/edit?usp=sharing)
