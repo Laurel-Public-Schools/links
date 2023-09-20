@@ -16,6 +16,8 @@
 
 ## [Activities Handbook](https://resources.finalsite.net/images/v1692888416/laurelk12mtus/rofp06cebiuuycc2v3ou/2023-2024LHSStudentActivitiesHandbook.pdf)
 
+## [Middle School Activities Handbook](https://resources.finalsite.net/images/v1695222114/laurelk12mtus/bv5edlov7jtl78snblob/2023-2024LMSActivitiesHandbook.pdf)
+
 ## [One to One Devices Handbook](https://resources.finalsite.net/images/v1692888914/laurelk12mtus/cofejbvs8bigz1gmxr5e/2023-2024ChromeOnetoOne.pdf)
 
 ## [Transportation Handbook](https://resources.finalsite.net/images/v1692888787/laurelk12mtus/hxkkwu1tmezk4uha6kpt/2023-2024StudentTransporationHandbook.pdf)
