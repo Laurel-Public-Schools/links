@@ -30,6 +30,7 @@ const config = {
 			({
 				docs: {
 					sidebarPath: require.resolve('./sidebars.js'),
+					editUrl: 'https://github.com/Laurel-Public-Schools/links/tree/main/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
@@ -71,7 +72,6 @@ const config = {
 				sidebar: {
 					hideable: true,
 				},
-				editUrl: 'https://github.com/Laurel-Public-Schools/links/tree/main/',
 			},
 			plugins: [['@gracefullight/docusaurus-plugin-vercel-analytics']],
 			algolia: {
