@@ -71,7 +71,9 @@ const config = {
 				sidebar: {
 					hideable: true,
 				},
+				editUrl: 'https://github.com/Laurel-Public-Schools/links/tree/main/',
 			},
+			plugins: [['@gracefullight/docusaurus-plugin-vercel-analytics']],
 			algolia: {
 				// The application ID provided by Algolia
 				appId: '58DY084X0I',
