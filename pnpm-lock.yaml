@@ -6,8 +6,8 @@ settings:
 
 dependencies:
   '@docusaurus/core':
-    specifier: 2.2.0
-    version: 2.2.0(@docusaurus/types@2.2.0)(react-dom@17.0.2)(react@17.0.2)(typescript@5.2.2)
+    specifier: 2.4.3
+    version: 2.4.3(@docusaurus/types@2.4.3)(react-dom@17.0.2)(react@17.0.2)(typescript@5.2.2)
   '@docusaurus/plugin-content-docs':
     specifier: ^2.4.3
     version: 2.4.3(react-dom@17.0.2)(react@17.0.2)(typescript@5.2.2)
@@ -554,7 +554,7 @@ packages:
       '@babel/core': ^7.0.0-0
     dependencies:
       '@babel/core': 7.12.9
-      '@babel/helper-plugin-utils': 7.10.4
+      '@babel/helper-plugin-utils': 7.22.5
       '@babel/plugin-syntax-object-rest-spread': 7.8.3(@babel/core@7.12.9)
       '@babel/plugin-transform-parameters': 7.22.15(@babel/core@7.12.9)
     dev: false
@@ -3286,7 +3286,7 @@ packages:
   /@types/sax@1.2.5:
     resolution: {integrity: sha512-9jWta97bBVC027/MShr3gLab8gPhKy4l6qpb+UJLF5pDm3501NvA7uvqVCW+REFtx00oTi6Cq9JzLwgq6evVgw==}
     dependencies:
-      '@types/node': 17.0.45
+      '@types/node': 20.7.1
     dev: false
 
   /@types/scheduler@0.16.4:
@@ -5616,7 +5616,7 @@ packages:
     engines: {node: '>= 4.2.1'}
     hasBin: true
     dependencies:
-      address: 1.1.2
+      address: 1.2.2
       debug: 2.6.9
     transitivePeerDependencies:
       - supports-color
@@ -6713,7 +6713,7 @@ packages:
       vue-template-compiler:
         optional: true
     dependencies:
-      '@babel/code-frame': 7.10.4
+      '@babel/code-frame': 7.22.13
       chalk: 2.4.2
       micromatch: 3.1.10
       minimatch: 3.1.2
@@ -6999,7 +6999,7 @@ packages:
       fs.realpath: 1.0.0
       inflight: 1.0.6
       inherits: 2.0.4
-      minimatch: 3.0.8
+      minimatch: 3.1.2
       once: 1.4.0
       path-is-absolute: 1.0.1
     dev: false
